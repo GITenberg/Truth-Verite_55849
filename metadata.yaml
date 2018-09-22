@@ -1,0 +1,40 @@
+_repo: Truth-Verite_55849
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Vizetelly, Ernest Alfred
+    aliases:
+    - Vizetelly, E. A. (Ernest Alfred)
+    - Vizetelly, Ernest A.
+    birthdate: 1853
+    deathdate: 1922
+    gutenberg_agent_id: '3192'
+    url: http://www.gutenberg.org/2009/agents/3192
+creator:
+  author:
+    agent_name: Zola, Émile
+    alias: Zola, Émile Édouard Charles Antoine
+    birthdate: 1840
+    deathdate: 1902
+    gutenberg_agent_id: '528'
+    url: http://www.gutenberg.org/2009/agents/528
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Émile_Zola
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Zola
+description: ''
+gutenberg_issued: '2017-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Fiction'
+- !lcsh 'Villages -- France -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Death -- Fiction'
+- GITenberg
+title: Truth [Vérité]
+url: http://www.gutenberg.org/ebooks/55849
